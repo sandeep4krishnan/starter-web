@@ -12,5 +12,7 @@ How are you doing :P
 
 # TECHNOLOGY COLOPHON
 
+Haahaahaaa :D
+
     HTML5, CSS3
     jQuery, Modernizr
