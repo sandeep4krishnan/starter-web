@@ -5,7 +5,7 @@
 
 # TEAM
 Thanks for your time!!!
-How are you doing :P
+
     <name> -- <role> -- <twitter>
 
 # THANKS
